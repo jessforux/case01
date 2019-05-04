@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="748" height="507.309" viewBox="0 0 748 507.309">
+  <g id="Title" transform="translate(-588 -150)">
+    <path id="m3" d="M858,585l39-78,39-78,39-78,39,78,39,78,39,78Z" transform="translate(-268 72.309)" fill="#fff"/>
+    <path id="m2" d="M858,585l39-78,39-78,39-78,39,78,39,78,39,78Z" transform="translate(-12 72.309)" fill="#fff"/>
+    <path id="m1" d="M858,585l39-78,39-78,39-78,39,78,39,78,39,78Z" transform="translate(244 72.309)" fill="#fff"/>
+    <g id="t1" transform="translate(-17 -291)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="465" height="105" rx="52.5" transform="translate(605 441)" fill="#c6c2c2"/>
+      <text id="Title-2" data-name="Title" transform="translate(640 508)" fill="#dbf3ff" font-size="51" font-family="Bahnschrift"><tspan x="0" y="0">I&apos;m Jessica Hoang</tspan></text>
+    </g>
+    <g id="t2" transform="translate(178 -149)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="465" height="105" rx="52.5" transform="translate(605 441)" fill="#c6c2c2"/>
+      <text id="Title-3" data-name="Title" transform="translate(654 512)" fill="#dbf3ff" font-size="55" font-family="Bahnschrift"><tspan x="0" y="0">UX/UI Designer</tspan></text>
+    </g>
+  </g>
+</svg>
