@@ -2,10 +2,11 @@
 
 body, html {
     height:100%;
+    font-family: sans-serif;
+    color:#C6C2C2;
 }
 body {
     background:#DBF3FF;
-    text-align:center;
     margin:0;
     display:grid;
     justify-items:center;
@@ -16,8 +17,14 @@ h1 {
     color:#919CB4;
     font-family:'Signika';
     font-size:2em;
-    position:absolute;
     text-align:center;
-    width:100%;
+}
+
+p {
+    font-size:1.5em;
+}
+
+article {
+    width:500px;
     top:20%;
 }
