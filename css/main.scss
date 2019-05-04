@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Signika');
+
+body, html {
+    height:100%;
+}
+body {
+    background:#DBF3FF;
+    text-align:center;
+    margin:0;
+    display:grid;
+    justify-items:center;
+    align-items:center;
+}
+
+h1 {
+    color:#919CB4;
+    font-family:'Signika';
+    font-size:2em;
+    position:absolute;
+    text-align:center;
+    width:100%;
+    top:20%;
+}
